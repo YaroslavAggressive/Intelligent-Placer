@@ -46,5 +46,5 @@ def check_image(<path_to_png_jpg_image_on_local_computer>, [<poligon_coordinates
 * Тюбик с йодом
 * Пластиковая карта бирюзового цвета
 * Складной нож
-* Красный леденец
+* PowerBank Xiaomi
 * Зубная щетка в чехле
