@@ -39,12 +39,22 @@ def check_image(<path_to_png_jpg_image_on_local_computer>, [<poligon_coordinates
 ## Предварительный набор предметов, выбранных для тестирования
 
 * Синий маркер
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/pen.jpg)
 * Паспорт в обложке
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/pasport.jpg)
 * Кошелек
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/wallet.jpg)
 * Эспандер
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/expander.jpg)
 * Йо-йо синий
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/yo-yo.jpg)
 * Тюбик с йодом
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/iodine.jpg)
 * Пластиковая карта бирюзового цвета
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/card.jpg)
 * Складной нож
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/knife.jpg)
 * PowerBank Xiaomi
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/powerbank.jpg)
 * Зубная щетка в чехле
+* ![alt text](https://github.com/YaroslavAggressive/Intelligent-Placer/blob/develop/Test%20Kit/case.jpg)
